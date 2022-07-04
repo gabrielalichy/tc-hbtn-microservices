@@ -11,4 +11,4 @@ Muitos chamam de "computação sem servidor" por não precisarmos comprar, aluga
 É um serviço que se baseia na internet e tem armazenamento de dados, redes de aplicações em ambientes compartilhados de maneira integrada através da internet, em qualquer lugar independente da plataforma sem ter que investir em equipamentos o que tem como beneficio a redução de custo.
 
 • Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
-	Na arquitetura monolítica é utilizado uma linguagem única e é fortemente acoplada. Já o 	microsserviço tem baixo de nível de acoplamento e cada um dos serviços são independentes. O serverless é um tipo de arquitetura que ajuda o desenvolvedor a se preocupar apenas com seu código, sem focar em infraestrutura.
+	Na arquitetura monolítica é utilizado uma linguagem única e é fortemente acoplada. Já o microsserviço tem baixo de nível de acoplamento e cada um dos serviços são independentes. O serverless é um tipo de arquitetura que ajuda o desenvolvedor a se preocupar apenas com seu código, sem focar em infraestrutura.
